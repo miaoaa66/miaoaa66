@@ -30,7 +30,7 @@
 
 ## 关于我
 
-- 关注前端（`Vue`、`React`、`uni-app`、`Electron`、`Flutter` 等）与后端（`Node.js`、`Go`、`Java`、`NestJS`、`Midway` 等）方向，也会接触 `Python` 与一些工程化工具。
+- 前端（`Vue`、`Nuxt`、`React`、`uni-app`、`Electron`、`Flutter` 等），后端（`Node.js`、`Go`、`Java`、`NestJS`、`Midway` 等），爬虫和自动化（`Python`）
 - 喜欢把学习过程沉淀成项目、笔记和可复用的实践经验。
 - 希望这个主页既能展示活跃度，也能留下自己持续迭代的痕迹。
 
@@ -75,7 +75,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
-**其他**
+**爬虫和自动化**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
