@@ -63,5 +63,12 @@ https://github.com/Steve245270533/typed-crt
 https://crt.twimark.cc.cd/edit   
    
 其他：   
+锐评git账号   
+https://github.com/miaoaa66   
 https://ghfind.com/   
+   
+git仓库star曲线图   
+https://github.com/star-history/star-history   
+https://www.star-history.com/   
+https://chromewebstore.google.com/detail/star-history/iijibbcdddbhokfepbblglfgdglnccfn   
    
