@@ -46,10 +46,10 @@
 - GitHub：[miaoaa66](https://github.com/miaoaa66)
 - Gitee：[miaoaa66](https://gitee.com/miaoaa66/miaoaa66)
 - CodePen：[miaoaa66](https://codepen.io/miaoaa66)
-- 哔哩哔哩：[miaoaa](https://space.bilibili.com/40717608)
-- CSDN：[miaoaa](https://blog.csdn.net/weixin_52160438)
-- 博客园：[miaoaa](https://www.cnblogs.com/miaoaa)
-- 掘金：[miaoaa](https://juejin.cn/user/567812196930301)
+- 哔哩哔哩：[miaoaa66](https://space.bilibili.com/40717608)
+- CSDN：[miaoaa66](https://blog.csdn.net/weixin_52160438)
+- 博客园：[miaoaa66](https://www.cnblogs.com/miaoaa66)
+- 掘金：[miaoaa66](https://juejin.cn/user/567812196930301)
    
 ## 关于项目
    
