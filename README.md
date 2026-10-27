@@ -44,7 +44,7 @@
 ## 更多信息
 
 - GitHub：[miaoaa66](https://github.com/miaoaa66)
-- Gitee：[miaoaa66](https://gitee.com/miaoaa66/miaoaa66)
+- Gitee：[miaoaa66](https://gitee.com/miaoaa66)
 - CodePen：[miaoaa66](https://codepen.io/miaoaa66)
 - 哔哩哔哩：[miaoaa66](https://space.bilibili.com/40717608)
 - CSDN：[miaoaa66](https://blog.csdn.net/weixin_52160438)
