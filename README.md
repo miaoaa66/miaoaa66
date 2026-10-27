@@ -62,7 +62,6 @@ https://www.bilibili.com/video/BV1328X6mEmS
 https://github.com/Steve245270533/typed-crt   
 https://crt.twimark.cc.cd/edit   
    
-其他：   
 锐评git账号   
 https://github.com/miaoaa66   
 https://ghfind.com/   
@@ -75,4 +74,12 @@ https://chromewebstore.google.com/detail/star-history/iijibbcdddbhokfepbblglfgdg
 git仓库star曲线图2   
 https://github.com/emanuelef/daily-stars-explorer   
 https://emanuelef.github.io/daily-stars-explorer/#/emanuelef/daily-stars-explorer   
+   
+其他：   
+https://github-readme-streak-stats-six-peach.vercel.app/demo/   
+https://github.com/denvercoder1/github-readme-streak-stats   
+   
+其他：   
+https://github-stats-extended.vercel.app/frontend/docs/   
+https://github.com/stats-organization/github-stats-extended   
    
