@@ -72,3 +72,7 @@ https://github.com/star-history/star-history
 https://www.star-history.com/   
 https://chromewebstore.google.com/detail/star-history/iijibbcdddbhokfepbblglfgdglnccfn   
    
+git仓库star曲线图2   
+https://github.com/emanuelef/daily-stars-explorer   
+https://emanuelef.github.io/daily-stars-explorer/#/emanuelef/daily-stars-explorer   
+   
